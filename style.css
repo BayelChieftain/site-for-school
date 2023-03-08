@@ -139,6 +139,7 @@ input{
 /* blog pages */
 iframe{
     border-radius: 15px;
+    border: solid 10px aquamarine;
 }
 .container-blog {
     display: flex;
@@ -187,3 +188,17 @@ li:hover{
     font-size: 27px;
     border-bottom: 3.4px solid white;
 }
+/* address pages */
+.map-adrs{
+    max-width: 150px;
+    height: 100%;
+    margin: 0 auto;
+    font-size: 25px;
+    font-weight: 650;
+    margin-bottom: 15px;
+    border-bottom: 5px solid white;
+    text-align: center;
+    border-radius: 10%;
+}
+
+/* work pages */
