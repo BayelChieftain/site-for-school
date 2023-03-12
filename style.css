@@ -202,3 +202,8 @@ li:hover{
 }
 
 /* work pages */
+.container-img {
+    display: flex;
+    width: 555px;
+
+}
